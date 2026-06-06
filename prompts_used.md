@@ -32,3 +32,11 @@ Product pricing, market share, and feature availability.
 ## Would I Trust AI?
 
 AI is useful for research and learning, but important information should always be verified using official sources.
+
+## What Surprised Me
+
+I was surprised by how quickly AI could explain CRM concepts, compare products, and provide software architecture recommendations.
+
+## What Would I Do Differently Next Time
+
+Next time, I would compare responses from multiple AI tools and verify more information using official vendor documentation.
